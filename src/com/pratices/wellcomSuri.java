@@ -8,7 +8,7 @@ public class wellcomSuri {
 			int a = 0;
 			if(a==0) {
 				System.out.println("a is zero");			}
-			
+			System.out.println("secomd commit purpose");
 		}
 	}
 
